@@ -1,0 +1,6 @@
+,ROC-AUC (mean),ROC-AUC (SD),PR-AUC,Brier
+Stacked Ensemble,0.797,0.014,0.506,0.133
+Logistic Regression,0.797,0.014,0.511,0.186
+Random Forest,0.789,0.013,0.488,0.16
+XGBoost,0.786,0.014,0.491,0.173
+MLP (Neural Net),0.77,0.027,0.454,0.14

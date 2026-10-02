@@ -1,0 +1,5 @@
+Attribute,Sensitivity_gap,AUC_gap,Max_calibration_error_pp,Concern?
+Sex,0.03300000000000003,0.007000000000000006,0.4,OK
+Residence,0.264,0.0030000000000000027,1.8,Review
+Wealth,0.79,0.08599999999999997,3.7,Review
+Region,0.5579999999999999,0.132,6.1,Review

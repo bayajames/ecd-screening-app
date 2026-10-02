@@ -1,0 +1,5 @@
+Stack vs,AUC difference,AUC better?,Brier difference,Brier better?
+Logistic Regression,+0.003 (-0.001 to +0.006),No sig. difference,-0.054 (-0.066 to -0.042),Yes
+Random Forest,+0.004 (-0.003 to +0.012),No sig. difference,-0.027 (-0.035 to -0.020),Yes
+XGBoost,+0.004 (-0.003 to +0.012),No sig. difference,-0.040 (-0.051 to -0.030),Yes
+MLP (Neural Net),+0.011 (+0.002 to +0.019),Yes,-0.002 (-0.004 to +0.001),No sig. difference

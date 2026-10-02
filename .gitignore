@@ -1,0 +1,19 @@
+# Python environment & caches
+venv/
+__pycache__/
+.ipynb_checkpoints/
+
+# Intermediate results (contain training data - regenerate with step scripts)
+artifacts/
+
+# DHS data - NEVER upload (DHS terms of use)
+kdhs/
+*.DTA
+*.dta
+*.SAV
+*.sav
+
+# Windows / Office temporary files
+desktop.ini
+~$*
+*.xlsx
